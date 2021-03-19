@@ -1,0 +1,27 @@
+.color {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: aqua;
+  background-color: brown;
+  margin: 20px;
+  border: chartreuse 5px;
+  height: 200px;
+  width: 25%;
+  display: inline-block;
+}
+
+.img {
+  width: 50%;
+  margin-left: 250px;
+}
+#btn {
+  margin-top: 20px;
+  border-radius: 5px;
+  box-shadow: chocolate;
+  width: 200px;
+  background-color: cyan;
+  font-size: 10px;
+  margin-left: 400px;
+}
+.headline {
+  text-align: center;
+}
